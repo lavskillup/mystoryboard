@@ -1,0 +1,178 @@
+{
+  "version": "3.68.28820.0",
+  "course_id": "6SsA6yImlNI",
+  "title": "Malwarebytes_storyline",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Main"
+    },
+    {
+      "title": "Scheduler"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6BOKJu7ciGb",
+      "title": "Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5txqyRb7ahR",
+      "title": "Desktop_icon",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6BibJZJAAn7",
+      "title": "Launched_screen",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5bOOguLxSoa",
+      "title": "scanning",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "61KmjESQipe",
+      "title": "scan_report",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "63kI3JG3XkI",
+      "title": "report",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6oa7nXjs8CU",
+      "title": "scan_done",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6VgcR2Jbv0q",
+      "title": "offering",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5nf0ggEgxgK",
+      "title": "vpn_screen",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6E4VxtawVFn",
+      "title": "choose_server",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "63CMtjgAsAe",
+      "title": "connecting",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "5sR1Wcs2K6o",
+      "title": "connected",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "5bCZKt0I4Rn",
+      "title": "Browserguard_install",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "6SnVqzjnGqw",
+      "title": "broswer_launch",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "5YAMJMlk2c8",
+      "title": "Click icon",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "6WZ2CQMFggw",
+      "title": "let's go",
+      "scene_index": "2.15"
+    },
+    {
+      "id": "6YAcp7y7zCg",
+      "title": "current_website",
+      "scene_index": "2.16"
+    },
+    {
+      "id": "6YBrYLrVmYG",
+      "title": "stastics",
+      "scene_index": "2.17"
+    },
+    {
+      "id": "6OWBX7Ihivi",
+      "title": "settings",
+      "scene_index": "2.18"
+    },
+    {
+      "id": "5hby05vtZMW",
+      "title": "Adwcleaner",
+      "scene_index": "2.19"
+    },
+    {
+      "id": "6UKlTGmAjFv",
+      "title": "adw_launch_screen",
+      "scene_index": "2.20"
+    },
+    {
+      "id": "5xH1pDuIm2c",
+      "title": "adw_scanning_process",
+      "scene_index": "2.21"
+    },
+    {
+      "id": "5ZHh9yqPxAz",
+      "title": "quarantine",
+      "scene_index": "2.22"
+    },
+    {
+      "id": "6W9caJPuHsU",
+      "title": "Cleanup_done",
+      "scene_index": "2.23"
+    },
+    {
+      "id": "5ou1hPzsj2L",
+      "title": "Quarantine tab",
+      "scene_index": "2.24"
+    },
+    {
+      "id": "6mPrBhYbjct",
+      "title": "log_files",
+      "scene_index": "2.25"
+    },
+    {
+      "id": "6j06upi92hX",
+      "title": "Untitled Slide",
+      "scene_index": "2.26"
+    },
+    {
+      "id": "5qWIZspf48J",
+      "title": "Schedule_scan",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6BEHDd4X5xo",
+      "title": "Apply_schedule",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6fcJUF94eK1",
+      "title": "Launched_screen",
+      "scene_index": "3.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
